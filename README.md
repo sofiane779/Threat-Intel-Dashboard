@@ -1,4 +1,4 @@
-# SOC Analysis & Threat Intel Dashboard
+# Threat Intel Dashboard
 
 ## Overview
 This project is a professional-grade **Security Operations Center (SOC) Dashboard** built with Python. It allows security analysts to upload raw log files (like `auth.log` or `syslog`), automatically extract IP addresses using Regex, and cross-reference them with **VirusTotal** to identify potential threats in real-time.
@@ -36,7 +36,7 @@ As a former **Full Stack Developer** transitioning into **Cybersecurity**, I des
 ### Installation
 1.  **Clone the repository:**
     ```bash
-    git clone [https://github.com/your-username/SOC-Dashboard.git](https://github.com/your-username/SOC-Dashboard.git)
+    git clone [https://github.com/sofiane779/SOC-Dashboard.git](https://github.com/sofiane779/SOC-Dashboard.git)
     cd SOC-Dashboard
     ```
 
@@ -66,7 +66,7 @@ As a former **Full Stack Developer** transitioning into **Cybersecurity**, I des
 ├── LICENSE               
 ├── README.md             
 ├── analysis_report.md    
-├── venv/                 
+├── .gitignore/                 
 └── EVIDENCE/
     └── dashboard_preview.png  
 ```    
